@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm a Developer
 
-<!--
-**Milk0916/milk0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Robotics | 💻 Programming | ⚡ Electronics
 
-Here are some ideas to get you started:
+## About Me
+- 🇹🇼 Based in Taiwan
+- 💻 Learning C++ and Python
+- 🤖 Interested in Robotics
+- ⚡ Exploring Arduino and ESP32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- 🤖 Climbing Robot
+- 🏎️ Line Following Robot
+- 💻 C++ Programming
+
+## My Skills
+![C++](https://img.shields.io/badge/C++-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![Arduino](https://img.shields.io/badge/Arduino-teal)
+![HTML](https://img.shields.io/badge/HTML-orange)
+
+## My Goals
+- 🏆 Programming Competitions
+- 🤖 Build Advanced Robots
+- 🚀 Become an Engineer
