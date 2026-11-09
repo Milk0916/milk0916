@@ -1,25 +1,31 @@
-# 👋 Hi, I'm a Developer
+<h2 align="center">Hello, I'm Liu</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=300&speed=50&color=00BFFF&center=true&vCenter=true&width=700&lines=Learn+Code;I'm+so+tired%2C+I+really+want+to+sleep" />
+</p>
+
+### My interests
 🤖 Robotics | 💻 Programming | ⚡ Electronics
 
-## About Me
+### About Me
 - 🇹🇼 Based in Taiwan
-- 💻 Learning C++ and Python
-- 🤖 Interested in Robotics
-- ⚡ Exploring Arduino and ESP32
+- A junior high school student
 
-## My Projects
-- 🤖 Climbing Robot
+### My Projects
+- 🤖 Arduino Programming
 - 🏎️ Line Following Robot
 - 💻 C++ Programming
+- 💻 Python Programming
+- 💻 JavaScript Programming
+- 💻 Java Programming
+- 💻 HTML Programming
 
-## My Skills
-![C++]([https://img.shields.io/badge/C++-blue](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCG_mRH9YJdRsk7bTGHVOP1H7pPlFgWljtiFUYHCOOQ&s=10))
-![Python](https://img.shields.io/badge/Python-yellow)
-![Arduino](https://img.shields.io/badge/Arduino-teal)
-![HTML](https://img.shields.io/badge/HTML-orange)
-
-## My Goals
-- 🏆 Programming Competitions
-- 🤖 Build Advanced Robots
-- 🚀 Become an Engineer
+### Skills
+<p align="left">
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40">&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40">&nbsp;
+  <img src="https://cdn.simpleicons.org/arduino/00979D" width="40" height="40">&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40">&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40" height="40">&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40">
+</p>
